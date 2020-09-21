@@ -24,4 +24,31 @@ body {
 img {
   display: block;
   width: 100%;
+  max-height: 30em;
+}
+
+h2 {
+  color: #000;
+}
+
+a {
+  color: #3783a3;
+}
+
+.button {
+  border: .2rem solid #3783a3;
+  border-radius: .3rem;
+}
+
+.top {
+  text-align: center;
+
+}
+
+li {
+  display: flex;
+  display: grid;
+  text-decoration: none;
+  list-style: none;
+  list-style-type: none;
 }
